@@ -4,15 +4,9 @@ This is the first file in my testing repo.
 
 
 
-## Ipsum Below
+## Website Information
 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
+here are the files in the website
 
 WEBSITE CONTENTS
 1. big burgers
