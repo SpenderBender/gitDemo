@@ -14,18 +14,5 @@ This is a really long paragraph to test. This is a really long paragraph to test
 This is a really long paragraph to test. This is a really long paragraph to test. 
 This is a really long paragraph to test. This is a really long paragraph to test. 
 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
-This is a really long paragraph to test. This is a really long paragraph to test. 
+WEBSITE CONTENTS
+1. big burgers
